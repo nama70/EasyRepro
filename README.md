@@ -117,4 +117,4 @@ The Firefox web driver can be installed through Nuget package manager.
 ***FileName*** : Selenium.WebDriver.GeckoDriver.Win64
 #### Edge:
 Click on the below link to download Edge driver
-[Download Edge driver](https://www.microsoft.com/en-us/download/details.aspx?id=48212)
+[Download Edge driver]([https://www.microsoft.com/en-us/download/details.aspx?id=48212](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/))
